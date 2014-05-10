@@ -6,6 +6,7 @@ This  are    the plots  for the  householders   that  I   obtained  after runnin
  
  
 <B>PLOT 1 </B>
+
 ![alt tag](https://cloud.githubusercontent.com/assets/7158671/2936424/69b58484-d85b-11e3-9a11-595c57c03347.png)
 
 <B>PLOT 2 </B>
